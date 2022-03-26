@@ -20,4 +20,4 @@
 
 ###                                                                         by：monkey-king2333
 
-[个人主页]:<猴王233(github.com)(https://github.com/monkey-king2333)>
+[个人主页]:<https://github.com/monkey-king2333>
