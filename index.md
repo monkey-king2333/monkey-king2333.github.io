@@ -9,14 +9,13 @@ data-source-line="0" data-source-line-display="true">
   <span class="xsj_heading_content">
     <center>monkey-king2333 的个人空间 </center>
   </span>
-</h1>
-<p class="xsj_paragraph xsj_paragraph_level_0" data-source-line="1" data-source-line-display="true"></p>
+
 <div class="story_image_container story_block_image">
   <div class="story_image">
     <img src="https://i0.hippopx.com/photos/457/770/423/leaf-drip-rain-macro-preview.jpg"
     data-vdom-skip="true" data-vdom-cache="true" alt="名称" title="名称" name="" data-src="https://i0.hippopx.com/photos/457/770/423/leaf-drip-rain-macro-preview.jpg">
     <br>
-    <div class="story_image_caption "
+    
   </div>
 </div>
 ### 菜鸟的第一个网站
