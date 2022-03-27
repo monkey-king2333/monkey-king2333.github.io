@@ -15,7 +15,8 @@
     <img src="https://i0.hippopx.com/photos/457/770/423/leaf-drip-rain-macro-preview.jpg"
     data-vdom-skip="true" data-vdom-cache="true" alt="名称" title="名称" name="" data-src="https://i0.hippopx.com/photos/457/770/423/leaf-drip-rain-macro-preview.jpg">
     <br>
-    <div class="story_image_caption "
+
+    
   </div>
 </div>
 ### 菜鸟的第一个网站
